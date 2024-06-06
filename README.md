@@ -7,7 +7,7 @@
 ### ⚙️ Installation
 > Checker:
 * Requires: `Python 3.8+`
-* Start: `py main.py`
+* Start: `execute Install.bat`
 
 ---------------------------------------
 
@@ -19,9 +19,9 @@
 ---------------------------------------
 
 ### 🚀 Milestones
-* 10 Stars - Better Error Handling
-* 15 Stars - GoLang Version of Checker
-* 25 Stars - Combined Gen & Checker Version
+* 10 Stars - Implement better error handling to ensure smoother operations.
+* 15 Stars - add Proxy support and  multi-threading
+* 25 Stars - Add a graphical user interface (GUI) for a more user-friendly experience.
 * Suggest more milestones for further improvements!
 
 ---------------------------------------
@@ -36,5 +36,5 @@
 ### 📜 ChangeLog
 
 ```diff
-v0.0.1 ⋮ 2/6/2023
+v1.0.0 ⋮ 6/6/2024
 ! Initial Release <3
