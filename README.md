@@ -1,9 +1,4 @@
 <div align="center">
-  <kbd>
-    <img src="https://cdn.upload.systems/uploads/iN2uGtg4.png" alt="Logo" width="800" height="115">
-    <img src="https://cdn.upload.systems/uploads/140Hsr0H.png" alt="Logo" width="800" height="150">
-  </kbd>
-  
   <h2 align="center">Capmonster - Key Gen & Checker</h2>
 </div>
 
